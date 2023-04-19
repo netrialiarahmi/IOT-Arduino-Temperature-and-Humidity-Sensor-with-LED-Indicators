@@ -1,2 +1,4 @@
 # IOT-Arduino-Temperature-and-Humidity-Sensor-with-LED-Indicators
-sebuah projek sederhana yang bertujuan untuk membaca suhu dan kelembaban menggunakan sensor DHT22 pada platform Arduino. 
+Sebuah projek sederhana yang bertujuan untuk membaca suhu dan kelembaban menggunakan sensor DHT22 pada platform Arduino. Projek ini dilengkapi dengan indikator LED yang akan menunjukkan suhu yang terdeteksi, dimana LED pada pin 13 akan menyala jika suhu kurang dari 30 derajat Celsius, LED pada pin 12 akan menyala jika suhu lebih dari atau sama dengan 30 derajat Celsius, dan LED pada pin 11 akan menyala jika suhu lebih dari 50 derajat Celsius.
+
+Repository ini berisi file sketch program yang dapat diunggah langsung ke board Arduino, serta dilengkapi dengan diagram koneksi yang jelas dan detail. Repository ini dapat digunakan sebagai referensi atau bahan belajar bagi pemula yang ingin mengembangkan projek serupa dengan menggunakan sensor DHT22 pada platform Arduino.
